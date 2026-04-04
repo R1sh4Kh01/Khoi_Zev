@@ -1,0 +1,39 @@
+a {text-decoration: none; color: whitesmoke;}
+@font-face{
+    font-family: starborn;
+    src: url(https://dl.dropbox.com/s/l0541on0m5eqvdj/Starborn.ttf);
+}
+
+body{
+    margin:0px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+header{
+text-align: center;
+}
+
+banner{
+    padding: 10px
+}
+
+::-webkit-scrollbar{
+    width: 0;
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb{
+    width: 0;
+    background: transparent;
+}
+
+section.home{
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: blue;
+}
