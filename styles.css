@@ -29,11 +29,3 @@ banner{
     width: 0;
     background: transparent;
 }
-
-section.home{
-    height: 800px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-color: blue;
-}
