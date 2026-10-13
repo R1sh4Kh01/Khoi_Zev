@@ -29,3 +29,10 @@ banner{
     width: 0;
     background: transparent;
 }
+
+nav a{
+    text-decoration: none;
+    color: #08306B;
+    font-size: 25px;
+    padding: 10px 15px;
+}   
